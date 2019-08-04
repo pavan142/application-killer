@@ -1,0 +1,7 @@
+{
+  "uuid": "application-killer@pavan142",
+  "name": "Application Killer",
+  "description": "This kills groups of applications all at once@10:29am23jul2019",
+  "icon": "preferences-system-network",
+  "max-instances": "-1"
+}
